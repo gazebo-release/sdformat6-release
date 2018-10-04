@@ -1,0 +1,11 @@
+sdformat6 (6.1.0-1~bionic) bionic; urgency=medium
+
+  * sdformat6 6.1.0-1 release
+
+ -- Steve Peters <scpeters@osrfoundation.org>  Thu, 04 Oct 2018 11:09:43 -0700
+
+sdformat6 (6.0.0-1~bionic) bionic; urgency=medium
+
+  * sdformat6 6.0.0-1 release
+
+ -- Jose Luis Rivero <jrivero@osrfoundation.org>  Thu, 25 Jan 2018 21:42:52 +0100
