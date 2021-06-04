@@ -13,7 +13,8 @@ Build-Depends: cmake,
                texlive-fonts-recommended,
                texlive-latex-extra,
                ruby,
-               libignition-math4-dev
+               libignition-math4-dev,
+               libignition-tools-dev
 Vcs-Browser: https://bitbucket.org/osrf/sdformat6-release
 Vcs-Hg: https://bitbucket.org/osrf/sdformat6-release
 Homepage: http://sdformat.org
