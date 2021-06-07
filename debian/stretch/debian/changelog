@@ -1,3 +1,9 @@
+sdformat6 (6.3.0-1~stretch) stretch; urgency=medium
+
+  * sdformat6 6.3.0-1 release
+
+ -- Jose Luis Rivero <jrivero@osrfoundation.org>  Mon, 07 Jun 2021 23:54:02 +0200
+
 sdformat6 (6.2.0-1~stretch) stretch; urgency=medium
 
   * sdformat6 6.2.0-1 release
